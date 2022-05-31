@@ -3,17 +3,15 @@
 ## 🔗🔗Descrição do Projeto
 <p align="justify"> Respostas das questões dos desafios técnicos </p>
 
+> Status do Projeto: Concluído ✅
 
 ### 🔧 Questões Resolvidas 
 
-- [ ] [Questão 1 - Telefone Encriptado](
+- [ ] [Questão 1 - Telefone Encriptado](https://github.com/srtapoe/desafiostecnicos/tree/master/src/main/java/br/desafios/telefone)
 - [x] [Questão 2 - Tipos de Triângulos](https://github.com/srtapoe/desafiostecnicos/tree/master/src/main/java/br/desafios/triangulos)
 - [X] [Questão 3 - Classe Automóvel](https://github.com/srtapoe/desafiostecnicos/tree/master/src/main/java/br/desafios/automovel)
 - [x] [Questão 4 - Agenda](https://github.com/srtapoe/desafiostecnicos/tree/master/src/main/java/br/desafios/agenda)
 
-
-> Status do Projeto: Em desenvolvimento ⚠️
-> 
 
 ## Como rodar o projeto ▶️
 
