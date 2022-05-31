@@ -9,7 +9,7 @@
 - [ ] [Questão 1 - Telefone Encriptado](
 - [x] [Questão 2 - Tipos de Triângulos](https://github.com/srtapoe/desafiostecnicos/tree/master/src/main/java/br/desafios/triangulos)
 - [X] [Questão 3 - Classe Automóvel](https://github.com/srtapoe/desafiostecnicos/tree/master/src/main/java/br/desafios/automovel)
-- [ ] [Questão 4 - Agenda]
+- [x] [Questão 4 - Agenda](https://github.com/srtapoe/desafiostecnicos/tree/master/src/main/java/br/desafios/agenda)
 
 
 > Status do Projeto: Em desenvolvimento ⚠️
