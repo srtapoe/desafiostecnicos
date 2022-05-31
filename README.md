@@ -6,10 +6,10 @@
 
 ### 🔧 Questões Resolvidas 
 
-- [X] [Questão 1]
-- [x] [Questão 2]
-- [X] [Questão 3]
-- [X] [Questão 4]
+- [ ] [Questão 1 - Telefone Encriptado](
+- [x] [Questão 2 - Tipos de Triângulos](https://github.com/srtapoe/desafiostecnicos/tree/master/src/main/java/br/desafios/triangulos)
+- [X] [Questão 3 - Classe Automóvel](https://github.com/srtapoe/desafiostecnicos/tree/master/src/main/java/br/desafios/automovel)
+- [ ] [Questão 4 - Agenda]
 
 
 > Status do Projeto: Em desenvolvimento ⚠️
